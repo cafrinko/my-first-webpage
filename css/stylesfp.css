@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  font-family: cursive;
+  color: green;
+}
+
+h3 {
+  font-size: 20px;
+  color: purple;
+}
