@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  text-align: left;
+}
+
+h2 {
+  font-style: bold;
+  text-align: right;
+}
+
+p {
+  font-family: times;
+  font-weight: 100;
+}
+
+ul {
+  font-size: 1px;
+  line-height: 300px;
+}
